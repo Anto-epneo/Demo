@@ -42,3 +42,4 @@ void app_main(void)
     esp_restart();
     //edited _ anto
 }
+// multiplication of 2*2 = 4
